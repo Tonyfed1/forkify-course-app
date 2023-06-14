@@ -1,4 +1,4 @@
-import view from './View.js'
+import view from './view.js'
 
 class ResultsView extends view {
   _parentElement = document.querySelector('.results')

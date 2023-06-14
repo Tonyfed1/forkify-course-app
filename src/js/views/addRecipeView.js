@@ -1,4 +1,4 @@
-import view from './View.js'
+import view from './view.js'
 
 class AddRecipeVeiw extends view {
   _parentElement = document.querySelector('.upload')
