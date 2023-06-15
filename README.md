@@ -2,4 +2,16 @@
 
 Recipe application where user can also upload custom recipe
 
-NOTE: I'm note the original owner of this app, I built it from Jonas Schmedtmann JavaScript Coruse on Udemy
+An app I built on the course of learning;
+- Asynchronous Javascript
+- API calls
+- Consuming of promise
+- Promise and fetch API
+- Event loop
+- Consuming of promise with Async-Await
+- Buildin Promise (Promisifying)
+- Fundamentals of Javascript module and MVC Architeture
+- Building with parcel and npm script
+- Transpiling and Polyfilling
+
+Built from Jonas Schmedtmann JavaScript Coruse on Udemy
