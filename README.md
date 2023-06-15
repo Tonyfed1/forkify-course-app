@@ -13,5 +13,6 @@ An app I built on the course of learning;
 - Fundamentals of Javascript module and MVC Architeture
 - Building with parcel and npm script
 - Transpiling and Polyfilling
+- git and github
 
 Built from Jonas Schmedtmann JavaScript Coruse on Udemy
