@@ -9,7 +9,7 @@ An app I built on the course of learning;
 - Promise and fetch API
 - Event loop
 - Consuming of promise with Async-Await
-- Buildin Promise (Promisifying)
+- Building Promise (Promisifying)
 - Fundamentals of Javascript module and MVC Architeture
 - Building with parcel and npm script
 - Transpiling and Polyfilling
